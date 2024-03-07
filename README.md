@@ -39,7 +39,7 @@ To replicate the analysis:
 - scipy
 
 ## Author
-John Doe
+ntsika Mhlonyane
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
