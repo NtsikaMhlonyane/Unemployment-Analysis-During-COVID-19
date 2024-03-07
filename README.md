@@ -38,8 +38,6 @@ To replicate the analysis:
 - matplotlib
 - scipy
 
-## Author
-ntsika Mhlonyane
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
